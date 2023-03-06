@@ -1,6 +1,6 @@
 # Sales_Report_Excel
 
-This sales data is from company ABC group was used for this analysis to show the important KPI's fr the end of the year sales.
+This sales data is from company ABC group was used for this analysis to show the important KPI's for the end of the year sales report.
 
 Using Excel, I applied the following tools;
 - Filtering
@@ -22,4 +22,4 @@ In this analysis, this dashboard aims to answer the following;
 
 
 
-![alt txt](https://github.com/ju-li4et/Sales_Report_Excel/blob/main/sales.png)
+![alt txt](https://github.com/ju-li4et/Sales_Report_Excel/blob/main/ABC%20sales%20Report.png)
